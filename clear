@@ -1,0 +1,14 @@
+[33m0955985[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m AUTO: update .canvas file
+[33m4263a93[m AUTO: replace github workflow
+[33m6300f35[m Merge pull request #2 from gnappo1/wip-main-missing-all-class-variable
+[33ma62e6f3[m Add class variable 'all' to Enrollment and append new instances in init
+[33m594c4db[m Merge pull request #1 from learn-co-curriculum/issue-fix
+[33m718dce4[m fix file structure
+[33mdd3fa5f[m Fix capitalization
+[33m1e151be[m Fix workflows
+[33m937fde5[m Update readme
+[33m235665f[m Add workflows
+[33md923536[m Add fixes to aggregate methods
+[33mb9f9c42[m Add fixes to aggregate methods
+[33m547133d[m update readme and canvas file
+[33m59731cf[m Initial commit
